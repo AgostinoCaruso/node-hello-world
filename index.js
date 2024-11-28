@@ -1,2 +1,3 @@
 console.log("Hello World");
-//node index.js 
+//node index.js
+//npm start
